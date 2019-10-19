@@ -25,7 +25,7 @@
 #include <unistd.h>
 #endif // _WIN32
 #include <fstream>
-
+#include <sstream>
 namespace Utils
 {
 	namespace FileSystem
